@@ -7,7 +7,7 @@ String version=resource.getString("version");%>
 <html>
 <body>
 <h2>War file  is going to   Deploy    into   amazon EC2  instance using github 
-"Successfully for the first  project using  Jenkins and tomcat"
+"Successfully for the first  demo project using  Jenkins and tomcat"
 </h2>
 <h3>Jenkins-Ansible concept with roles playbook is completed for Novbatch2025 </h3>
   </body>
